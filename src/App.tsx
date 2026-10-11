@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Flame } from 'lucide-react'
+import { Flame, MapPin } from 'lucide-react'
 
 export default function App() {
   return (
@@ -123,7 +123,7 @@ export default function App() {
             </div>
 
             <h2 className="font-serif text-2xl sm:text-3xl tracking-[0.25em] text-[#3D1E0B] uppercase font-normal">
-              VANDANAM
+              VARCHAM
             </h2>
             <p className="font-cinzel text-[9px] sm:text-[10px] tracking-[0.45em] text-[#A0783D] uppercase mt-0.5 font-medium">
               SACRED CHANDAN BOTANICA
@@ -191,6 +191,30 @@ export default function App() {
               </span>
             </div>
           </div>
+
+          {/* -----------------------------------------------------------------
+              CORPORATE SANCTUM & ATELIER LOCATION
+          ----------------------------------------------------------------- */}
+          <div className="mt-8 pt-6 border-t border-[#B89047]/25 w-full max-w-md text-center flex flex-col items-center">
+            <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-[#FAF5EB] border border-[#B89047]/35 shadow-xs mb-2.5">
+              <MapPin className="w-3.5 h-3.5 text-[#B89047]" />
+              <span className="font-cinzel text-[10px] tracking-[0.22em] uppercase text-[#7A5826] font-semibold">
+                Corporate Sanctum & Atelier
+              </span>
+            </div>
+
+            <h3 className="font-serif text-base sm:text-lg tracking-wide text-[#3D1E0B] font-medium mb-1">
+              Varcham India Pvt. Ltd.
+            </h3>
+
+            <p className="font-sans text-xs sm:text-[13px] text-[#5C4033] leading-relaxed max-w-sm">
+              BL-B, P 1/2, Bangur Avenue, LP-89/8, Kolkata – 700055, West Bengal.
+            </p>
+
+            <p className="font-cinzel text-[11px] text-[#8C6D38] tracking-wider mt-1 font-medium">
+              Near JK Masala, Bangur
+            </p>
+          </div>
         </main>
 
         {/* ---------------------------------------------------------------------
@@ -199,7 +223,7 @@ export default function App() {
         <footer className="w-full pt-8 pb-2 border-t border-[#B89047]/20 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-sans text-[#78593E]">
           <div className="flex items-center gap-2 text-center sm:text-left">
             <span className="font-cinzel text-[11px] tracking-widest text-[#5C3C24]">
-              © {new Date().getFullYear()} VANDANAM BOTANICA.
+              © {new Date().getFullYear()} VARCHAM INDIA PVT. LTD.
             </span>
             <span className="hidden sm:inline text-[#B89047]/40">•</span>
             <span className="text-[11px] text-[#8A6C50]">All Sacred Rights Reserved.</span>

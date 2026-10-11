@@ -1,9 +1,10 @@
-# VANDANAM (वन्दनम्) — Sacred Chandan Botanica
+# VARCHAM (Varcham India Pvt. Ltd.) — Sacred Chandan Botanica
 
 > **The Purest Devotion. The Rarest Chandan.**  
 > Sustainably harvested, museum-grade sandalwood for your most sacred rituals. The divine essence is unveiling soon.
 
 An ultra-premium, responsive "Coming Soon" landing page crafted with React 19, Vite, Tailwind CSS v4, and Framer Motion.
+Corporate Sanctum: BL-B, P 1/2, Bangur Avenue, LP-89/8, Kolkata – 700055, West Bengal (Near JK Masala, Bangur).
 
 ---
 
