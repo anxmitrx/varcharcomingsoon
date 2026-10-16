@@ -74,7 +74,7 @@ export default function App() {
 
         {/* Company Legal Name */}
         <h1 className="font-serif text-3xl sm:text-4xl md:text-[42px] text-[#29180E] font-normal tracking-tight mb-2">
-          Varcham India Pvt. Ltd.
+          Varcham India
         </h1>
 
         {/* Tagline */}
@@ -177,7 +177,7 @@ export default function App() {
         className="relative z-20 pb-2 text-center"
       >
         <p className="font-cinzel text-[10px] tracking-[0.25em] text-[#8C6D38]/75 uppercase">
-          © {new Date().getFullYear()} VARCHAM INDIA PVT. LTD. ALL RIGHTS RESERVED.
+          © {new Date().getFullYear()} VARCHAM INDIA. ALL RIGHTS RESERVED.
         </p>
       </motion.footer>
 

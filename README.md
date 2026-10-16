@@ -1,4 +1,4 @@
-# VARCHAM (Varcham India Pvt. Ltd.) — Sacred Chandan Botanica
+# VARCHAM (Varcham India) — Sacred Chandan Botanica
 
 > **The Purest Devotion. The Rarest Chandan.**  
 > Sustainably harvested, museum-grade sandalwood for your most sacred rituals. The divine essence is unveiling soon.
